@@ -10,6 +10,7 @@ html,
 body {
     width: 100vw;
     height: 500vh;
+    overflow-x: hidden;
 }
 
 img {
